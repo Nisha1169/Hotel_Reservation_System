@@ -18,7 +18,7 @@ MySQL Connector/J (Java)
 Setup
 Clone this repository to your local machine:
 
-git clone https://github.com/prabhatthakuryt/Hotel-Reservation-System.git
+
 Configure your MySQL database settings in the HotelReservationSystem.java file:
 
 private static final String DB_URL = "jdbc:mysql://localhost:3306/hotel_db";
